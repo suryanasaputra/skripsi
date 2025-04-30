@@ -1,0 +1,31 @@
+- aplikasi ini hanya mencangkup penerimaan karyawan 
+- aplikasi ini hanya mencangkup website 
+- buatkan form data secara lengkap 
+- buatkan proses interview 
+-gg
+
+
+
+=== module == 
+== user ==
+- login 
+- isi biodata 
+- dashboard ( timeline pengerjaan) 
+- apply job 
+
+
+== admin/hrd == 
+- login 
+- dashboard 
+- screening cv 
+- hasil psikotest
+- jadwal interview 
+
+
+
+
+
+== module == 
+- login 
+- dashboard 
+- 
